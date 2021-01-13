@@ -63,23 +63,6 @@ This file is cleared for public viewing.
 
 - Exploit patches, details redacted.
 
-## December 27, 2020
- 
-### Added
-
-- Additional security checks on SCP-034
-
-### Changed
-
-- Updated various permissions regarding MTF spawn
-
-### Fixed
-
-- SCP 034 naming issue fixed relating to [REDACTED]
-- SCP-[REDACTED] no longer gets stuck on chairs
-- Hit registration fixes [REVERTED: December 28, 2020]
- 
-
 ## January 1, 2021
 🥳 Happy New Year! 🥳
  
