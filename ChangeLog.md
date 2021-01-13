@@ -1,7 +1,7 @@
 # SCPF Area 14 - Change Log
 All changes to the site will be documented in this file.
 This file is managed and updated by the Manufacturing Department. 
-This file is cleared for public viewing.
+
 
 ## January 7, 2021
 
