@@ -118,3 +118,7 @@ This file is managed and updated by the Manufacturing Department.
 - Handcuff patch preventing cuffed players from interacting with objects
 - Vials permissions fixed
 - Fixed critical map issues
+
+
+
+Updates prior can be found here https://devforum.roblox.com/t/update/753213/101?u=colbert2677
