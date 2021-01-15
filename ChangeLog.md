@@ -2,6 +2,38 @@
 All changes to the site will be documented in this file.
 This file is managed and updated by the Manufacturing Department. 
 
+## January 15, 2021
+
+### Added
+- [REDACTED] for 250,000 members events
+
+## January 13, 2021
+
+### Added
+
+- Starling statue to SD spawn
+- 289's touch part to bullet blacklist
+
+### Fixed
+
+- Fixed issue where cuffed SCed players would get cuffed in laggy servers
+
+## January 12, 2021
+
+### Fixed
+
+- Fixed tablet UI issue
+
+## January 9, 2021
+
+### Added
+
+- Event give command to CBRS
+- CES1,2,3 to reserved servers
+
+### Fixed
+
+- Patched auto clicking struggle mini-game on cuffs
 
 ## January 7, 2021
 
