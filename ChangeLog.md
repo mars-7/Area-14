@@ -7,14 +7,18 @@ This file is managed and updated by the Manufacturing Department.
 ### Added
 
 - CES Spawn
+- CES event banners/posters
 
 ## Changed
 
 - Changes to game credits
+- DEA Level 4 Office
 
 ## Fixed
 
 - Issue where 173-J could be moved and taken out of the vending machine
+- Fixed knife blocks
+- Fixed fire extinguishers
 
 ## January 15, 2021
 
