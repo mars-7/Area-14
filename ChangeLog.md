@@ -2,10 +2,20 @@
 All changes to the site will be documented in this file.
 This file is managed and updated by the Manufacturing Department. 
 
+## January 16, 2021
+
+### Added
+
+- CES Spawn
+
+## Changed
+
+- Changes to game credits
+
 ## January 15, 2021
 
 ### Added
-- [REDACTED] for 250,000 members events
+- SCP-173-J for 250,000 members events
 
 ## January 13, 2021
 
