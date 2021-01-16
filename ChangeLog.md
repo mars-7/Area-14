@@ -12,6 +12,8 @@ This file is managed and updated by the Manufacturing Department.
 
 - Changes to game credits
 
+## Fixed
+
 ## January 15, 2021
 
 ### Added
@@ -42,6 +44,8 @@ This file is managed and updated by the Manufacturing Department.
 - CES1,2,3 to reserved servers
 
 ### Fixed
+
+- Issue where 173-J could be moved and taken out of the vending machine
 
 - Patched auto clicking struggle mini-game on cuffs
 
