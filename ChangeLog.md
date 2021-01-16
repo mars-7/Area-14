@@ -14,6 +14,8 @@ This file is managed and updated by the Manufacturing Department.
 
 ## Fixed
 
+- Fixed 173-J being able to be moved out of the vending machine
+
 ## January 15, 2021
 
 ### Added
