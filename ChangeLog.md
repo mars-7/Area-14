@@ -4,6 +4,8 @@ This file is managed and updated by the Manufacturing Department.
 ### Quick Links
 > Weapon Stats: https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 
+
+
 ## January 17, 2021
 
 ### Added
