@@ -12,6 +12,7 @@ This file is managed and updated by the Manufacturing Department.
 ### Changed
 
 - Hostile Radio Permissions. L4+ and DEA Adviser + now have access to hostile channel during raids. (APPROVED BY O5-5)
+- Hostile Leader Extension permissions
 
 ## January 16, 2021
 
