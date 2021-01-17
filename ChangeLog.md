@@ -2,6 +2,17 @@
 All changes to the site will be documented in this file.
 This file is managed and updated by the Manufacturing Department. 
 
+## January 17, 2021
+
+### Added
+
+- NVG mode for hostile agent and leader
+- Added EventWinner permission node
+
+### Changed
+
+- Hostile Radio Permissions. L4+ and DEA Adviser + now have access to hostile channel during raids. (APPROVED BY O5-5)
+
 ## January 16, 2021
 
 ### Added
