@@ -6,7 +6,7 @@ Resource | Link
 ------------ | -------------
 Weapon Stats | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 
-
+<br/>
 
 ## January 17, 2021
 
