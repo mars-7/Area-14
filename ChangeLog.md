@@ -2,11 +2,9 @@
 All changes to the site will be documented in this file.
 This file is managed and updated by the Manufacturing Department. 
 ### Quick Links
-<p align="left">
 Resource | Link
 ------------ | -------------
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
-</p>
 <br/>
 
 ## January 17, 2021
