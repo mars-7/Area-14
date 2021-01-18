@@ -17,7 +17,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ### Changed
 
-- Closed vending machine door in staff cafeteria
+- Closed vending machine door in staff cafeteria (SCP-173-J has gone back to bed.)
 - Disabled and locked SCP-989 temporarily due to security concerns. 
 
 ## January 17, 2021
