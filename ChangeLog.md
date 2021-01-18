@@ -9,11 +9,13 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ## January 18, 2021
 
+### Added
+
+- Additional security to SCP-989
+
 ### Changed
 
 - Closed vending machine door in staff cafeteria
-
-###
 
 ## January 17, 2021
 
