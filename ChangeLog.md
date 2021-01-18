@@ -7,6 +7,14 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 18, 2021
+
+### Changed
+
+- Closed vending machine door in staff cafeteria
+
+###
+
 ## January 17, 2021
 
 ### Added
