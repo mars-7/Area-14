@@ -13,7 +13,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ### Added
 
-~~Additional security to SCP-989~~
+- ~~Additional security to SCP-989~~
 
 ### Changed
 
