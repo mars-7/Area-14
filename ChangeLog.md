@@ -9,6 +9,11 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ## January 19, 2021
 
+### Added
+
+- Radio now supports RichText. 
+     - <b>Oh my god!</b> A <font color="#eb8934">D Class</font> is in Zone A!
+
 ### Changed
 
 - Removed CES 250,000 event content
