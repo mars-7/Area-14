@@ -7,6 +7,12 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 19, 2021
+
+### Changed
+
+- Removed CES 250,000 event content
+
 ## January 18, 2021
 
 <b> Some menu features may be temporarily unavailable due to on-going latency investigations.</b>
