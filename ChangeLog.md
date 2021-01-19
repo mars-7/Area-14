@@ -12,7 +12,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ### Added
 
 - Radio now supports RichText. 
-     - <b>Oh my god!</b> A <font color="#eb8934">D Class</font> is in Zone A!
+     - ``<b>Oh my god!</b> A <font color="#eb8934">D Class</font> is in Zone A!``
 
 ### Changed
 
