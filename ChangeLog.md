@@ -17,6 +17,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ### Changed
 
 - Removed CES 250,000 event content
+- SD now have access to SCP-409
 
 ## January 18, 2021
 
