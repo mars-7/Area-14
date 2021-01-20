@@ -22,7 +22,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ## January 18, 2021
 
-<b> Some menu features may be temporarily unavailable due to on-going latency investigations.</b>
+~~Some menu features may be temporarily unavailable due to on-going latency investigations. ~~
 
 ### Added
 
