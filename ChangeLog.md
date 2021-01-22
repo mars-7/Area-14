@@ -7,7 +7,7 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
-## Janury 22, 2021
+## January 22, 2021
 
 ### Changed
 
