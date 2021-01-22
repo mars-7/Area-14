@@ -7,6 +7,12 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## Janury 22, 2021
+
+### Changed
+
+- Re-Written SCP-606. It's now more efficient and less of a server resource sponge.
+
 ## January 21, 2021
 
 ### Changed
