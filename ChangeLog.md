@@ -12,7 +12,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ### Changed
 
 - Re-Written SCP-606. It's now more efficient and less of a server resource sponge.
-- Restricted some tools being given using EventGive
+- Restricted some tools being given using EventGive (Staff, Remote)
 
 ## January 21, 2021
 
