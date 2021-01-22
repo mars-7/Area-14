@@ -13,6 +13,11 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 - Re-Written SCP-606. It's now more efficient and less of a server resource sponge.
 - Restricted some tools being given using EventGive (Staff, Remote)
+- SCP-606 now grows as it kills more players, awh it's so cute.
+
+### Fixed
+
+- 606 being too fast
 
 ## January 21, 2021
 
