@@ -7,6 +7,17 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+### January 23, 2021
+
+### Added
+
+- Retractable Walls in 606 CC
+
+### Fixed
+
+- 606 Delay Glitch
+- 606 Insta-Killing/Sniping
+
 ## January 22, 2021
 
 ### Changed
