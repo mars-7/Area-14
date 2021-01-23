@@ -18,6 +18,10 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 - 606 Delay Glitch
 - 606 Insta-Killing/Sniping
 
+### Removed
+
+- CZ Stripe loading on server start-up. (Pointless)
+
 ## January 22, 2021
 
 ### Changed
