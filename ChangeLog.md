@@ -7,6 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+### January 24, 2021
+
+### Added
+
+- New 173!
+- New Scanners at CZ's (Pending)
+- Cmdr Management permission
+
+### Changed
+
+- Department Command can now access team command within reserved servers
+
 ### January 23, 2021
 
 ### Notices
