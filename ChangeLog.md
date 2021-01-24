@@ -9,9 +9,17 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ### January 23, 2021
 
+### Notices
+
+- SCP-173 has been temporarily disabled and locked while we migrate over to a new version of it. 173 will be back in a couple of days.
+
 ### Added
 
 - Retractable Walls in 606 CC
+
+### Changed
+
+- Slightly buffed 606 kill
 
 ### Fixed
 
