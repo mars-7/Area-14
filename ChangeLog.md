@@ -14,6 +14,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 - New 173!
 - New Scanners at CZ's (Pending)
 - Cmdr Management permission
+- Height Measure in MD wing
 
 ### Changed
 
