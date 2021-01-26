@@ -20,9 +20,6 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ### Fixed
 
 - Internal performance and security updates
-
-### Fixed
-
 - CMDR Permission bugs
 
 ## January 24, 2021
