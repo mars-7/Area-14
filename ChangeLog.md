@@ -11,7 +11,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 ### Added
 
-- New SCP-999
+- New SCP-999 (with added snores and screams)
 
 ### Changed
 
