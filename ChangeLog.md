@@ -7,6 +7,20 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 27, 2021
+
+### Added
+
+- New SCP-999
+
+### Changed
+
+- Modified back-end security to better performance
+
+### Fixed
+
+- SCP-173 performance issues
+
 ## Janury 26, 2021
 
 ### Added
