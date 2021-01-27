@@ -21,6 +21,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 
 - Internal performance and security updates
 - CMDR Permission bugs
+- Stopped 457 and 173 being able to sit
 
 ## January 24, 2021
 
