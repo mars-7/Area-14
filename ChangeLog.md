@@ -10,6 +10,11 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ## January 28, 2021
 This update was worked on by Spearritt
 
+### Changed
+
+- Balanced out gun stats. See quick links for further details.
+- 173 scan 
+
 ### Fixed
 
 - Hit Registration fixed! (Finally)
