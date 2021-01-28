@@ -7,7 +7,15 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 28, 2021
+This update was worked on by Spearritt
+
+### Fixed
+
+- Hit Registration fixed! (Finally)
+
 ## January 27, 2021
+This update was worked on by Spearritt
 
 ### Added
 
@@ -22,6 +30,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 - SCP-173 performance issues
 
 ## Janury 26, 2021
+This update was worked on by Spearritt
 
 ### Added
 
@@ -38,6 +47,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 - Stopped 457 and 173 being able to sit
 
 ## January 24, 2021
+This update was worked on by Spearritt and Specialforcest
 
 ### Added
 
@@ -51,6 +61,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 - Department Command can now access team command within reserved servers
 
 ## January 23, 2021
+This update was worked on by Spearritt
 
 ### Notices
 
