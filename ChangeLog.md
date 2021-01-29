@@ -7,6 +7,19 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 29, 2021
+This update was worked on by Spearritt
+
+### Changed
+
+- Slightly buffed Glock 17
+
+### Fixed
+
+- 999 Reset
+- NVG Fix
+- Medkit client error fix
+
 ## January 28, 2021
 This update was worked on by Spearritt
 
