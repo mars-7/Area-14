@@ -20,6 +20,10 @@ This update was worked on by Spearritt
 - NVG Fix
 - Medkit client error fix
 
+### Removed
+
+- CES Event Images
+
 ## January 28, 2021
 This update was worked on by Spearritt
 
