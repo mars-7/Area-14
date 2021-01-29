@@ -107,6 +107,7 @@ This update was worked on by Spearritt
 - CZ Stripe loading on server start-up. (Pointless)
 
 ## January 22, 2021
+This update was worked on by Spearritt
 
 ### Changed
 
@@ -119,6 +120,7 @@ This update was worked on by Spearritt
 - 606 being too fast
 
 ## January 21, 2021
+This update was worked on by Spearritt
 
 ### Changed
 
@@ -127,6 +129,7 @@ This update was worked on by Spearritt
 - Spectate tool permission [to reflect request made by DEA HC]
 
 ## January 19, 2021
+This update was worked on by Spearritt
 
 ### Added
 
@@ -140,6 +143,7 @@ This update was worked on by Spearritt
 - Re-enabled the Level 0 Quiz
 
 ## January 18, 2021
+This update was worked on by Spearritt
 
 ~~Some menu features may be temporarily unavailable due to on-going latency investigations.~~
 
@@ -153,6 +157,7 @@ This update was worked on by Spearritt
 - Disabled and locked SCP-989 temporarily due to security concerns. 
 
 ## January 17, 2021
+This update was worked on by Spearritt
 
 ### Added
 
@@ -165,6 +170,7 @@ This update was worked on by Spearritt
 - Hostile Leader Extension permissions
 
 ## January 16, 2021
+This update was worked on by Spearritt and specialforcest
 
 ### Added
 
@@ -183,6 +189,7 @@ This update was worked on by Spearritt
 - Fixed fire extinguishers
 
 ## January 15, 2021
+This update was worked on by Spearritt
 
 ### Added
 - SCP-173-J for 250,000 members events
