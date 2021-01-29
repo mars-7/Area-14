@@ -52,7 +52,7 @@ This update was worked on by Spearritt
 - Stopped 457 and 173 being able to sit
 
 ## January 24, 2021
-This update was worked on by Spearritt and Specialforcest
+This update was worked on by Spearritt, specialforcest and Dr_D3stiny
 
 ### Added
 
