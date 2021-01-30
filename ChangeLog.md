@@ -14,6 +14,7 @@ This update was worked on by Spearritt
 
 - Knife hit boxing
 - ESiD office decor at O5 request
+- Object protection system reworked to reduce lag and increase stability
 
 ### Fixed
 
