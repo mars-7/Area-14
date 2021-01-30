@@ -8,7 +8,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 <br/>
 
 ## January 30, 2021
-This update was worked on by Christbru and Spearritt
+This update was worked on by Spearritt
 
 ### Changed
 
