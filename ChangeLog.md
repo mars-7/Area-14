@@ -7,6 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 30, 2021
+This update was worked on by Christbru and Spearritt
+
+### Changed
+
+- Knife hit boxing
+- ESiD office decor at O5 request
+
+### Fixed
+
+- Further gun system hit registration fixes
+
 ## January 29, 2021
 This update was worked on by Spearritt
 
