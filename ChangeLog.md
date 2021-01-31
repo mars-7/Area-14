@@ -18,6 +18,7 @@ This update was worked on by Christbru01
 
 - Issue where MD curtains caused server-wide kick
 - Players getting stuck in loading screen when initializing the security system (Pending stress testing/confirmation)
+- Crash-level spam from 989 triggers script
 
 ## January 30, 2021
 This update was worked on by Spearritt and Christbru01
