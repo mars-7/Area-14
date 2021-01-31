@@ -13,6 +13,7 @@ This update was worked on by Christbru01 and Spearritt
 ### Added
 
 - O5-12's in game permissions and identifier
+- SCP-939 [CLOSED BETA: NOT YET ACCESSIBLE]
 
 ### Changed
 
