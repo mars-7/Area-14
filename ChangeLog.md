@@ -7,6 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## January 31, 2021
+This update was worked on by Christbru01
+
+### Changed
+
+- Internal improvements to stability for object protection system.
+
+### Fixed
+
+- Issue where MD curtains caused server-wide kick
+- Players getting stuck in loading screen when initializing the security system (Pending stress testing/confirmation)
+
 ## January 30, 2021
 This update was worked on by Spearritt and Christbru01
 
