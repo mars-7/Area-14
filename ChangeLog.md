@@ -8,11 +8,17 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 <br/>
 
 ## January 31, 2021
-This update was worked on by Christbru01
+This update was worked on by Christbru01 and Spearritt
+
+### Added
+
+- O5-12's in game permissions and identifier
 
 ### Changed
 
 - Internal improvements to stability for object protection system.
+- ESiD office decor
+- Unused AD offices have been MaD locked
 
 ### Fixed
 
