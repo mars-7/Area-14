@@ -27,6 +27,10 @@ This update was worked on by Christbru01 and Spearritt
 
 - Added additional checks to try and prevent 034 god mode
 
+### Removed
+
+- O5-9's in-game identifier and permissions
+
 ## January 31, 2021
 This update was worked on by Christbru01 and Spearritt
 
