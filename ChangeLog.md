@@ -7,6 +7,23 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 1st, 2021
+This update was worked on by Christbru01
+
+### Added
+
+- Autoclicker spam prevention when equipping/unequipping tools (Now a 0.2 second delay when toggling a tool)
+
+### Changed
+
+- SD and MTF can now access and blow/repair the breach holes in private servers
+- SD seniors+ can now access the G18
+- SD LTs can now access any area SRU can access
+
+### Fixed
+
+- Added additional checks to try and prevent 034 god mode
+
 ## January 31, 2021
 This update was worked on by Christbru01 and Spearritt
 
