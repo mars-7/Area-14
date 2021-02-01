@@ -21,6 +21,7 @@ This update was worked on by Christbru01 and Spearritt
 - SD seniors+ can now access the G18
 - SD LTs can now access any area SRU can access
 - Improvements to alert lights
+- Alert lights now turn on while an announcement is playing rather than after
 
 ### Fixed
 
