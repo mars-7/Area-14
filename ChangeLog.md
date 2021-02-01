@@ -13,7 +13,7 @@ This update was worked on by Christbru01
 ### Added
 
 - Autoclicker spam prevention when equipping/unequipping tools (Now a 0.2 second delay when toggling a tool)
-- Announcement reverbaration
+- Announcement reverberation
 
 ### Changed
 
