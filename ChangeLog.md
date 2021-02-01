@@ -20,6 +20,7 @@ This update was worked on by Christbru01 and Spearritt
 - SD and MTF can now access and blow/repair the breach holes in private servers
 - SD seniors+ can now access the G18
 - SD LTs can now access any area SRU can access
+- Improvements to alert lights
 
 ### Fixed
 
