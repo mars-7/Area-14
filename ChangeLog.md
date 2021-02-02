@@ -7,6 +7,13 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 2nd, 2021
+This update was worked on by Spearritt
+
+## Changed
+
+- Gate A is now on new door system
+
 ## February 1st, 2021
 This update was worked on by Christbru01 and Spearritt
 
