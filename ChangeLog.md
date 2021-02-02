@@ -8,11 +8,16 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 <br/>
 
 ## February 2nd, 2021
-This update was worked on by Spearritt
+This update was worked on by Spearritt and Christbru01
 
 ## Changed
 
 - Gate A is now on new door system
+- M1911 buffed
+
+## Fixed
+
+- TimeGive and 034 will no longer give suppressors by default
 
 ## February 1st, 2021
 This update was worked on by Christbru01 and Spearritt
