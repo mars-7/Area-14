@@ -10,6 +10,10 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ## February 2nd, 2021
 This update was worked on by Spearritt and Christbru01
 
+## Added
+
+- TOC loadout changes during authorized riots
+
 ## Changed
 
 - Gate A is now on new door system
