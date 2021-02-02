@@ -22,6 +22,7 @@ This update was worked on by Spearritt and Christbru01
 ## Fixed
 
 - TimeGive and 034 will no longer give suppressors by default
+- 261 causing cheat prevention trigger when using healing items while having increased walkspeed
 
 ## February 1st, 2021
 This update was worked on by Christbru01 and Spearritt
