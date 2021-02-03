@@ -18,6 +18,7 @@ This update was worked on by Christbru01
 ## Fixed
 
 - Taser randomly stopped being able to fire due to a firerate issue
+- Tasing someone while they hold a shield no longer breaks their inventory
 
 ## February 2nd, 2021
 This update was worked on by Spearritt and Christbru01
