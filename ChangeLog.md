@@ -20,11 +20,14 @@ This update was worked on by Spearritt and Christbru01
 - Gate A is now on new door system
 - M1911 buffed
 - Guns now have a 0.3 second delay once equipped before they are ready to fire (May increase for some weapons and animations coming soon to visually show this)
+- AK-12 burst firerate significantly reduced
+- Taser range increased by 50% to a maximum effective range of 75 studs
 
 ## Fixed
 
 - TimeGive and 034 will no longer give suppressors by default
 - 261 causing cheat prevention trigger when using healing items while having increased walkspeed
+- Updated the weapon statistics page to be accurate again
 
 ## February 1st, 2021
 This update was worked on by Christbru01 and Spearritt
