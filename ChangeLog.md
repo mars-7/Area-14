@@ -7,6 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 3rd, 2021
+This update was worked on by Christbru01
+
+## Changed
+
+- Shield swap nerf reduction to now take 0.25 seconds from beginning to equip before shield comes to hand with a 0.75 second after before player can unequip as well as a 0.75 second delay after beginning to unquip the shield followed by a 0.25 second delay before they can equip anything else
+- Taser draw time reduced to 0.15 seconds
+
+## Fixed
+
+- Taser randomly stopped being able to fire due to a firerate issue
+
 ## February 2nd, 2021
 This update was worked on by Spearritt and Christbru01
 
