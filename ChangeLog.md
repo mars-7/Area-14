@@ -13,11 +13,13 @@ This update was worked on by Spearritt and Christbru01
 ## Added
 
 - TOC loadout changes during authorized riots
+- Shield swap prevention. If you equip a shield you must deequip it before you can equip anything else (Draw/Stow delay also added so you can't change quickly when using a shield. Animations coming soon to visually show this)
 
 ## Changed
 
 - Gate A is now on new door system
 - M1911 buffed
+- Guns now have a 0.3 second delay once equipped before they are ready to fire (May increase for some weapons and animations coming soon to visually show this)
 
 ## Fixed
 
