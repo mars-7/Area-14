@@ -18,15 +18,15 @@ This update was worked on by Spearritt
 
 - ESiD Office permissions to allow A-1 access
 
-### February 3rd, 2021
+## February 3rd, 2021
 This update was worked on by Christbru01
 
-## Changed
+### Changed
 
 - Shield swap nerf reduction to now take 0.25 seconds from beginning to equip before shield comes to hand with a 0.75 second after before player can unequip as well as a 0.75 second delay after beginning to unquip the shield followed by a 0.25 second delay before they can equip anything else
 - Taser draw time reduced to 0.15 seconds
 
-## Fixed
+### Fixed
 
 - Taser randomly stopped being able to fire due to a firerate issue
 - Tasing someone while they hold a shield no longer breaks their inventory
@@ -34,12 +34,12 @@ This update was worked on by Christbru01
 ## February 2nd, 2021
 This update was worked on by Spearritt and Christbru01
 
-## Added
+### Added
 
 - TOC loadout changes during authorized riots
 - Shield swap prevention. If you equip a shield you must deequip it before you can equip anything else (Draw/Stow delay also added so you can't change quickly when using a shield. Animations coming soon to visually show this)
 
-## Changed
+### Changed
 
 - Gate A is now on new door system
 - M1911 buffed
@@ -47,7 +47,7 @@ This update was worked on by Spearritt and Christbru01
 - AK-12 burst firerate significantly reduced
 - Taser range increased by 50% to a maximum effective range of 75 studs
 
-## Fixed
+### Fixed
 
 - TimeGive and 034 will no longer give suppressors by default
 - 261 causing cheat prevention trigger when using healing items while having increased walkspeed
