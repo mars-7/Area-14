@@ -7,7 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
-## February 3rd, 2021
+## February 6th, 2021
+This update was worked on by Spearritt
+
+### Added
+
+- Vulcan
+
+### Changed
+
+- ESiD Office permissions to allow A-1 access
+
+### February 3rd, 2021
 This update was worked on by Christbru01
 
 ## Changed
