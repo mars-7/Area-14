@@ -7,6 +7,14 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 7th, 2021
+This update was worked on by Christbru01
+
+### Changed
+
+- Shield swap reworked to take 0.5 seconds to equip from selection and 1.5 seconds after equip before being able to switch to anything else but no longer blocks from swapping from the shield to other items.
+- P90 recoil reduced by about 50% due to recoil being way too high for it (It was 150% of the glock recoild). (Real life P90s are well known to have minimal recoil compared to most rifles)
+
 ## February 6th, 2021
 This update was worked on by Spearritt
 
