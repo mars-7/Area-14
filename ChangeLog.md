@@ -7,6 +7,13 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 9th, 2021
+This update was worked on by Spearritt
+
+### Added
+
+- 2 new skin tones (https://scpf.nolt.io/5822)
+
 ## February 7th, 2021
 This update was worked on by Christbru01
 
