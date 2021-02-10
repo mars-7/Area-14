@@ -7,6 +7,17 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 10th, 2021
+This update was worked on by Spearritt
+
+### Removed
+
+- Trello connection for MTF roles (Bye bye Trello, we hate you!)
+
+### Fixed
+
+- MTF Join issues
+
 ## February 9th, 2021
 This update was worked on by Spearritt
 
