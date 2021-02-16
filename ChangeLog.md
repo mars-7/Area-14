@@ -7,15 +7,19 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
-## February 15th, 2021
+## February 16th, 2021
 This update was worked on by Christbru01
 
 ### Fixed
 - 1208 + tool bug where you get teleported back to the chamber patched
 - 034 no longer able to affect those in spawn. (Exploiters smh)
+- 1230 no longer removes the player's clothes after returning from the dream world
+- 002 no longer breaks if the player lost their hands from 330
+- 330 no longer gives infinitely
 
 ### Added
 - Reimplemented teleport exploit prevention code now that most forms of false positives have been removed. Be sure to watch for any false positives and report them if found.
+- Exploit prevention client sanity checks
 
 ## February 15th, 2021
 This update was worked on by Spearritt and Christbru01
