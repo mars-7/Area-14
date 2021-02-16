@@ -15,6 +15,7 @@ This update was worked on by Spearritt and Christbru01
 - SD/MTF lag root cause by dummy client bogging down FPS with dummy movement replication on characters with large numbers of parts (such as those with extensions)
 - Dummy no longer falls apart or has parts falling through the map occassionally in the menu
 - Dummy no longer has hat duplication issues
+- God mode issues where a player's health goes negative and never triggers .Died fixed
 
 ### Added
 
