@@ -8,6 +8,15 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 <br/>
 
 ## February 15th, 2021
+This update was worked on by Christbru01
+
+### Fixed
+- 1208 + tool bug where you get teleported back to the chamber patched
+
+### Added
+- Reimplemented teleport exploit prevention code now that most forms of false positives have been removed. Be sure to watch for any false positives and report them if found.
+
+## February 15th, 2021
 This update was worked on by Spearritt and Christbru01
 
 ### Fixed
