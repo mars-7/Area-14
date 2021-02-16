@@ -12,6 +12,7 @@ This update was worked on by Christbru01
 
 ### Fixed
 - 1208 + tool bug where you get teleported back to the chamber patched
+- 034 no longer able to affect those in spawn. (Exploiters smh)
 
 ### Added
 - Reimplemented teleport exploit prevention code now that most forms of false positives have been removed. Be sure to watch for any false positives and report them if found.
