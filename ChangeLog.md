@@ -7,6 +7,19 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 15th, 2021
+This update was worked on by Spearritt and Christbru01
+
+### Fixed
+
+- SD/MTF lag root cause by dummy client bogging down FPS with dummy movement replication on characters with large numbers of parts (such as those with extensions)
+- Dummy no longer falls apart or has parts falling through the map occassionally in the menu
+- Dummy no longer has hat duplication issues
+
+### Added
+
+- Check to damage to prevent applying damage to those inside the pending spawn (No more exploiters shooting you while you're in the menu)
+
 ## February 10th, 2021
 This update was worked on by Spearritt
 
