@@ -7,6 +7,15 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 25th, 2021
+This update was worked on by Christbru01
+
+### Added
+- Improvements to the teleport preventions
+
+### Fixed
+- Weird error with billboardgui and accessorys named "Head"
+
 ## February 16th, 2021
 This update was worked on by Christbru01
 
