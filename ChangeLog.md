@@ -7,6 +7,13 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## February 26th, 2021
+This update was worked on by Spearritt
+
+###Changed
+
+- Disabled Clicker on MaD "WIP Lock" doors
+
 ## February 25th, 2021
 This update was worked on by Christbru01
 
