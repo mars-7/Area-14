@@ -7,6 +7,20 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## March 6th, 2021
+This update was worked on by Christbru01
+
+### Changed
+- Removed hostile card access to most swing doors in TSA due to CDs locking other CDs in/out
+- CD Request system made viewable by non-CD/CE/Hostiles. Only L3+ and MaD members can initiate requests
+- Fixed soda buff duplication method
+
+## March 5th, 2021
+This update was worked on by Christbru01
+
+### Changed
+- Fixed numerous bugs with the new update and server degradation issues
+
 ## February 26th, 2021
 This update was worked on by Spearritt
 
