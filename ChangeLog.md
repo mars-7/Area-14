@@ -7,6 +7,12 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## March 8th, 2021
+This update was worked on by Christbru01
+
+### Fixed
+- Patched soda affect duplication issue (hopefully)
+
 ## March 6th, 2021
 This update was worked on by Christbru01
 
