@@ -8,7 +8,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 <br/>
 
 ## March 10th, 2021
-This update was worked on by Spearritt
+This update was worked on by Spearritt and Christbru01
 
 ### Added
 - Vehicles will now despawn if the player who spawned it leaves the game.
@@ -17,6 +17,7 @@ This update was worked on by Spearritt
 ### Changed
 - You must now hold a class of C or above to use the 'motor' commands on terminals. (D Class naughty bois)
 - "motor destroy" will now only destroy vehicles you spawned.
+- Info screens no longer count users in the menu towards their department's count
 
 ## March 8th, 2021
 This update was worked on by Christbru01
