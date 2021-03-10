@@ -7,6 +7,17 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## March 10th, 2021
+This update was worked on by Spearritt
+
+### Added
+- Vehicles will now despawn if the player who spawned it leaves the game.
+- "motor destroy-all" to despawn all vehicles on the map.
+
+### Changed
+- You must now hold a class of C or above to use the 'motor' commands on terminals. (D Class naughty bois)
+- "motor destroy" will now only destroy vehicles you spawned.
+
 ## March 8th, 2021
 This update was worked on by Christbru01
 
