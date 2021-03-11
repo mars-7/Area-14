@@ -13,11 +13,15 @@ This update was worked on by Spearritt and Christbru01
 ### Added
 - Vehicles will now despawn if the player who spawned it leaves the game.
 - "motor destroy-all" to despawn all vehicles on the map.
+- CD Request system now properly factors in and updates assigned SD's last time chosen for testing.
 
 ### Changed
 - You must now hold a class of C or above to use the 'motor' commands on terminals. (D Class naughty bois)
 - "motor destroy" will now only destroy vehicles you spawned.
 - Info screens no longer count users in the menu towards their department's count
+
+### Fixed
+- No longer assigns multiple additional CDs if some deny the request.
 
 ## March 8th, 2021
 This update was worked on by Christbru01
