@@ -22,6 +22,7 @@ This update was worked on by Spearritt and Christbru01
 
 ### Fixed
 - No longer assigns multiple additional CDs if some deny the request.
+- CDs replaced in the CD request system are no longer required to progress the request
 
 ## March 8th, 2021
 This update was worked on by Christbru01
