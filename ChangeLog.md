@@ -7,6 +7,18 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## March 18th, 2021
+This update was worked on by Christbru01
+
+### Added
+- Raiders no longer need to rejoin to select the hostile team
+
+### Fixed
+- Outside spawns for hostiles repaired and moved closer to the exterior breach point
+
+### Changed
+- General maintenance regarding access control
+
 ## March 10th, 2021
 This update was worked on by Spearritt and Christbru01
 
