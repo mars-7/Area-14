@@ -1,14 +1,16 @@
-"SCPs":[
-    {
-      "title": "SCP 005",
-      "content": "SCP-005\nClass: Safe\nContainment Zone: LCZ\nStatus: Contained\n\n____________________________________________________\nSCP-005 is described as an ornate key, mass produced in the 1920s. However, it posses the ability to manipulate to allow for the key to be used for any lock, digital or otherwise. On Area-14, SCP-005 is able to open any and all doors within the facility, meaning security precautions surrounding testing must be taken seriously, lest the Class-D escapes. SCP-005 may only be tested upon by a Researcher+ with supervision from a CR+ owing to the clearance requirement being Level-4.\n____________________________________________________\nScientific Department Notes:\nN/A"
-    },
-    {
-      "title": "SCP 014",
-      "content": "SCP-014\nClass: Safe\nContainment Zone: LCZ\nStatus: Contained\n____________________________________________________\nSCP-014 is a Caucasian male with the appearance of being in his 30s. He has brown hair and eyes. SCP-014 is to all outward appearances a normal man, but he does not appear to age, and shows no signs of possessing a metabolism. He does not eat, drink, perspire, or in any other way demonstrate life functions. He breathes only to speak, and apart from his eyes and vocal apparatus, is to all appearances utterly immobile. When you enter the chamber you may sit and ask SCP-014 questions by clicking the question mark box above it’s head. It will then provide different answers depending on what question you ask.\n____________________________________________________\nScientific Department Notes:\nSCP-014 may be tested upon without the usage of a Class-D, however security is still required. Just ask for 1 SD to a TSTA, tell them you wish to go to SCP-014 and then follow standard testing procedures. However, you may enter the chamber to speak to 014. Or even turn on the music.\n\nDo not enter the chamber if you are taking Class-Ds there.",
-    },
-    {
-      "title": "SCP 018",
-      "content": "SCP-018\nClass: Euclid\nContainment Zone: LCZ\nStatus: Contained\n____________________________________________________\nSCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is 6cm in diameter and coloured red. However, SCP-018's anomalous properties come into effect when bounced. SCP-018 is able to defy basic laws of thermodynamics. When bounced, SCP-018 begins to bounce at 200% efficiency, compared to that of losing efficiency. SCP-018's bounces will increasingly stack up until it is moving at well over 100 Km/H, typically faster.\n____________________________________________________\nScientific Department Notes:\nRemember to ensure 018 stays inside the box during testing, or else Beta-7 will have a headache."},
-    }
-  ]
+{
+    "SCPs":[
+        {
+          "title": "SCP 005",
+          "content": "SCP-005\nClass: Safe\nContainment Zone: LCZ\nStatus: Contained\n\n____________________________________________________\nSCP-005 is described as an ornate key, mass produced in the 1920s. However, it posses the ability to manipulate to allow for the key to be used for any lock, digital or otherwise. On Area-14, SCP-005 is able to open any and all doors within the facility, meaning security precautions surrounding testing must be taken seriously, lest the Class-D escapes. SCP-005 may only be tested upon by a Researcher+ with supervision from a CR+ owing to the clearance requirement being Level-4.\n____________________________________________________\nScientific Department Notes:\nN/A"
+        },
+        {
+          "title": "SCP 014",
+          "content": "SCP-014\nClass: Safe\nContainment Zone: LCZ\nStatus: Contained\n____________________________________________________\nSCP-014 is a Caucasian male with the appearance of being in his 30s. He has brown hair and eyes. SCP-014 is to all outward appearances a normal man, but he does not appear to age, and shows no signs of possessing a metabolism. He does not eat, drink, perspire, or in any other way demonstrate life functions. He breathes only to speak, and apart from his eyes and vocal apparatus, is to all appearances utterly immobile. When you enter the chamber you may sit and ask SCP-014 questions by clicking the question mark box above it’s head. It will then provide different answers depending on what question you ask.\n____________________________________________________\nScientific Department Notes:\nSCP-014 may be tested upon without the usage of a Class-D, however security is still required. Just ask for 1 SD to a TSTA, tell them you wish to go to SCP-014 and then follow standard testing procedures. However, you may enter the chamber to speak to 014. Or even turn on the music.\n\nDo not enter the chamber if you are taking Class-Ds there.",
+        },
+        {
+          "title": "SCP 018",
+          "content": "SCP-018\nClass: Euclid\nContainment Zone: LCZ\nStatus: Contained\n____________________________________________________\nSCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is 6cm in diameter and coloured red. However, SCP-018's anomalous properties come into effect when bounced. SCP-018 is able to defy basic laws of thermodynamics. When bounced, SCP-018 begins to bounce at 200% efficiency, compared to that of losing efficiency. SCP-018's bounces will increasingly stack up until it is moving at well over 100 Km/H, typically faster.\n____________________________________________________\nScientific Department Notes:\nRemember to ensure 018 stays inside the box during testing, or else Beta-7 will have a headache."},
+        }
+      ]
+}
