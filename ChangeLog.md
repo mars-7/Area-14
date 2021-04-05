@@ -7,6 +7,32 @@ Resource | Link
 Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
 <br/>
 
+## April 5th, 2021
+This update was worked on by Spearritt
+
+### Changed
+- Reduced CZ scanner alarm volume by 50%
+- Updated Wall of ESiD
+
+### Fixed
+- Airlock vents being audible across site.
+
+### Removed
+- CES Easter Event stuff
+
+## April 3rd, 2021
+This update was worked on by Spearritt
+
+### Changed
+- Players can no longer rotate their camera when dead
+- Radio is now hidden when dead
+- Red Fox Alarm
+- TSC Cells no longer close during a lockdown
+
+### Fixed
+- TOC Permissions
+-Activity logger for TOC
+
 ## March 18th, 2021
 This update was worked on by Christbru01
 
