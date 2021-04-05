@@ -10,7 +10,7 @@ Detailed Weapon Statistics | https://docs.google.com/spreadsheets/d/17A-Qn2cw7yG
 ## April 5th, 2021
 This update was worked on by Spearritt
 
-### Changed
+### Changed
 - Reduced CZ scanner alarm volume by 50%
 - Updated Wall of ESiD
 
