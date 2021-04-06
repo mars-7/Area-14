@@ -1,4 +1,4 @@
-# SCPF || Area-14 Change Log
+# SCPF Area-14 Change Log
 All changes to Area-14 will be documented here.
 This web page is managed and updated by the Manufacturing Department. 
 ## Quick Links
