@@ -2,7 +2,7 @@
 All changes to Area-14 will be documented here.
 This web page is managed and updated by the Manufacturing Department. 
 ## Quick Links
-* Detailed Weapon Statistics - https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing
+* [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
 ## April 5th, 2021
 This update was worked on by Spearritt
@@ -589,6 +589,5 @@ This update was worked on by Spearritt
 - Vials permissions fixed
 - Fixed critical map issues
 
-
-
-> Updates prior can be found here https://devforum.roblox.com/t/scpf-area-14-update-notes/753213/104?u=spearritt
+## Prior Updates
+Updates prior to what is listed on this web page can be found [here](https://devforum.roblox.com/t/scpf-area-14-update-notes/753213/104?u=spearritt).
