@@ -1,6 +1,6 @@
 # SCPF Area 14 - Change Log
-All changes to the site will be documented in this file.
-This file is managed and updated by the Manufacturing Department. 
+All changes to the site will be documented here.
+This web page is managed and updated by the Manufacturing Department. 
 ### Quick Links
 Resource | Link
 ------------ | -------------
