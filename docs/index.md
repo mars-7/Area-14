@@ -7,6 +7,15 @@ This web page is managed and updated by the Manufacturing Department.
 ## April 6th, 2021
 This update was worked on by Spearritt
 
+### Added
+- O5-9 in game identifier
+
+### Fixed
+- Performance related improvements to the menu
+
+## April 6th, 2021
+This update was worked on by Spearritt
+
 ### Changed
 - Reversed change which blocks death-screen camera movement
 
