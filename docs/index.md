@@ -4,6 +4,17 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## April 9th, 2021
+This update was worked on by Spearritt
+
+### Added
+- SCAR-H (See detailed weapon stats)
+- Honey Badger (See detailed weapon stats)
+
+### Removed
+- Ability the skip the menu, was causing back-end issues.
+- Disabled kick on "Echo" failure.
+
 ## April 8th, 2021
 This update was worked on by Spearritt
 
