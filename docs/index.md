@@ -12,7 +12,7 @@ This update was worked on by Spearritt
 - Honey Badger (See detailed weapon stats)
 
 ### Removed
-- Ability the skip the loading screen, was causing back-end issues.
+- Ability to skip the loading screen, was causing back-end issues.
 - Disabled kick on "Echo" failure.
 
 ## April 8th, 2021
