@@ -5,7 +5,7 @@ This web page is managed and updated by the Manufacturing Department.
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
 ## April 10th, 2021
-This update was workeds on by Spearritt and TheDeer
+This update was worked on by Spearritt and TheeDeer
 
 ### Added
 - MD Lolipops
