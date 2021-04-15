@@ -1,5 +1,13 @@
 [
   {
-    Username = 'Spearritt',
+    "Username": "Searritt",
+    "UserId": 61226860,
+    "Rank": "Super Duper Researcher"
   },
+  
+  {
+    "Username": "OverlySmelly",
+    "UserId": 0,
+    "Rank": "nerd"
+  }
 ]
