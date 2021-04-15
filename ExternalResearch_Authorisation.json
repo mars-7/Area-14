@@ -2,12 +2,14 @@
   {
     "Username": "Searritt",
     "UserId": 61226860,
-    "Rank": "Super Duper Researcher"
+    "Rank": "Super Duper Researcher",
+    "Suspended": false
   },
   
   {
     "Username": "OverlySmelly",
     "UserId": 0,
     "Rank": "nerd"
+    "Suspended": false
   }
 ]
