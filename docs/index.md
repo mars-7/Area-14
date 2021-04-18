@@ -4,8 +4,18 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## April 18th, 2021
+This update was worked on by Spearritt
+
+### Changed
+- D Class bodies can no longer be searched
+- Stolen Access Card/Hostile Access Card can no longer be picked up from body searching
+
+### Fixed
+- Body search interaction should now stay with the body (lol)
+
 ## April 17th, 2021
-This update was working on by Spearritt
+This update was worked on by Spearritt
 
 ### Added
 - Body Searching Feature
