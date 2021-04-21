@@ -4,6 +4,16 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## April 21st, 2021
+This update was worked on by Spearritt
+
+### Added
+- CI Merkuriy loadout
+
+### Fixed
+- Menu play button can no longer be spammed
+- Issue with body looting
+
 ## April 18th, 2021
 This update was worked on by Spearritt
 
