@@ -4,6 +4,21 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## April 28st, 2021
+This update was worked on by alikeshadow and TheeDeer
+
+### Added
+- CD Search Animation
+- Lolipop Animation
+
+### Fixed
+- Gun Camera
+- Lethal Gas Immunity
+- Baton TK
+
+### Changed
+- Skylight permissions for THI (Scribe+)
+
 ## April 21st, 2021
 This update was worked on by Spearritt
 
