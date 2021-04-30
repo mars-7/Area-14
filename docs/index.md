@@ -12,7 +12,7 @@ This update was worked on by alikeshadow and TheeDeer
 - Lolipop Animation
 
 ### Fixed
-- Gun Camera
+- Gun Camera (This is temperamental and is still being looked into further)
 - Lethal Gas Immunity
 - Baton TK
 - Taser Spam
