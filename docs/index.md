@@ -15,6 +15,7 @@ This update was worked on by alikeshadow and TheeDeer
 - Gun Camera
 - Lethal Gas Immunity
 - Baton TK
+- Taser Spam
 
 ### Changed
 - Skylight permissions for THI (Scribe+)
