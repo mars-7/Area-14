@@ -11,7 +11,7 @@ This update was worked on by TheeDeer
 - Personnel screen in some department spawns 
 
 ### Fixed
-- Walking while searching
+- Moving while looting bodies
 - Lolipop animation loop
 - Coffee mug handle position
 - SCP 409 randomly breaking
