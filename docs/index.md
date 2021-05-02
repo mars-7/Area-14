@@ -4,18 +4,19 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
-## May 1st, 2021
+## May 2st, 2021
 This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
 - Personnel info screen in some department spawns
-- Fade Out will automatically be called when all site-wide altering statuses are disabled
+- Fade Out will automatically be called when all site-wide altering statuses are disabled (Excluding Red-Fox)
 
 ### Fixed
 - Moving while looting bodies
 - Lolipop animation loop
 - Coffee mug handle position
 - SCP 409 randomly breaking
+- SCP 034 Nametag
 - Various building mistakes/issues
 - Class A unauthorized nametags
 
