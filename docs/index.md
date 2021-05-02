@@ -25,7 +25,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Level 0 quiz grammar
 - 606's chamber floor
 - Shooting while saluting
-- E&TS lighting
+- E&TS entrance lighting clipping through wall
 - 173 sitting
 
 ## April 30th, 2021
