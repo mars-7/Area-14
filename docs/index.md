@@ -8,7 +8,8 @@ This web page is managed and updated by the Manufacturing Department.
 This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
-- Personnel screen in some department spawns 
+- Personnel info screen in some department spawns
+- Fade Out will automatically be called when all site-wide altering statuses are disabled
 
 ### Fixed
 - Moving while looting bodies
@@ -16,7 +17,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Coffee mug handle position
 - SCP 409 randomly breaking
 - Various building mistakes/issues
-- 05 unauthorized nametags
+- Class A unauthorized nametags
 
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
