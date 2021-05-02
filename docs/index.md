@@ -27,6 +27,8 @@ This update was worked on by TheeDeer and Alikeshadow
 - Shooting while saluting
 - E&TS entrance lighting clipping through wall
 - 173 sitting
+- 457 sitting
+- Zone A/C floor elevation
 
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
