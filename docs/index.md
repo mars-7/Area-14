@@ -9,6 +9,7 @@ This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
 - Personnel info screen in some department spawns
+- Interior keycard reader to CZ Garage 
 
 ### Fixed
 - Moving while looting bodies
@@ -22,6 +23,9 @@ This update was worked on by TheeDeer and Alikeshadow
 - OBS Window Hitbox
 - Class A unauthorized nametags
 - Level 0 quiz grammar
+- 606's chamber floor
+- Shooting while saluting
+- E&TS Lighting
 
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
