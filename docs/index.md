@@ -12,6 +12,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Interior keycard reader to CZ Garage
 - When tased you will be unable to double x
 - Garbage Cans to CZ checkpoints
+- Containment Zone Breach Shelter
 
 ### Fixed
 - Moving while looting bodies
