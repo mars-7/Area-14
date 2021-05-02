@@ -16,6 +16,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Coffee mug handle position
 - SCP 409 randomly breaking
 - Various building mistakes/issues
+- 05 unauthorized nametags
 
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
