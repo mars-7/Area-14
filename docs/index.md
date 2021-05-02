@@ -21,6 +21,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - SD Extension Names
 - OBS Window Hitbox
 - Class A unauthorized nametags
+- Level 0 quiz grammar
 
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
