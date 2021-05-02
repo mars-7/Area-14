@@ -9,7 +9,8 @@ This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
 - Personnel info screen in some department spawns
-- Interior keycard reader to CZ Garage 
+- Interior keycard reader to CZ Garage
+- When tased you will be unable to double x
 
 ### Fixed
 - Moving while looting bodies
