@@ -11,6 +11,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Personnel info screen in some department spawns
 - Interior keycard reader to CZ Garage
 - When tased you will be unable to double x
+- Garbage Cans to CZ checkpoints
 
 ### Fixed
 - Moving while looting bodies
