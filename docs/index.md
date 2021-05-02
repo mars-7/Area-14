@@ -9,7 +9,6 @@ This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
 - Personnel info screen in some department spawns
-- Fade Out will automatically be called when all site-wide altering statuses are disabled (Excluding Red-Fox)
 
 ### Fixed
 - Moving while looting bodies
@@ -17,7 +16,10 @@ This update was worked on by TheeDeer and Alikeshadow
 - Coffee mug handle position
 - SCP 409 randomly breaking
 - SCP 034 Nametag
-- Various building mistakes/issues
+- Various floating card readers
+- TSTA 2 Glass
+- SD Extension Names
+- OBS Window Hitbox
 - Class A unauthorized nametags
 
 ## April 30th, 2021
