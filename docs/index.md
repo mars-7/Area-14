@@ -14,8 +14,8 @@ This update was worked on by TheeDeer and Alikeshadow
 - Moving while looting bodies
 - Lolipop animation loop
 - Coffee mug handle position
-- SCP 409 randomly breaking
-- SCP 034 Nametag
+- SCP 409
+- SCP 034
 - Various floating card readers
 - TSTA 2 Glass
 - SD Extension Names
