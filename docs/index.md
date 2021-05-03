@@ -4,7 +4,7 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
-## May 2nd, 2021
+## May 3rd, 2021
 This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
@@ -13,7 +13,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - When tased you will be unable to double x
 - Garbage Cans to CZ checkpoints
 - Containment zone breach shelter
-- Clearance level signs to OBS, and Zone-C checkpoint
+- Clearance level signs above OBS doors
 - SRU, Sigma-9, Alpha-1, Beta-7, MTF-FC to radio team identifiers
 - Medical room patient information screens
 
