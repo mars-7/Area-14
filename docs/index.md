@@ -9,12 +9,13 @@ This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
 - Personnel info screen in some department spawns
-- Interior keycard reader to CZ Garage
+- Interior keycard reader to CZ garage
 - When tased you will be unable to double x
 - Garbage Cans to CZ checkpoints
-- Containment Zone Breach Shelter
-- Clearance level signs to OBS, and Zone-C Checkpoint
+- Containment zone breach shelter
+- Clearance level signs to OBS, and Zone-C checkpoint
 - SRU, Sigma-9, Alpha-1, Beta-7, MTF-FC to radio team identifiers
+- Medical room patient information screens
 
 ### Fixed
 - Moving while looting bodies
