@@ -13,6 +13,8 @@ This update was worked on by TheeDeer and Alikeshadow
 - When tased you will be unable to double x
 - Garbage Cans to CZ checkpoints
 - Containment Zone Breach Shelter
+- Clearance level signs to OBS, and Zone-C Checkpoint
+- SRU, Sigma-9, Alpha-1, Beta-7, MTF-FC to radio team identifiers
 
 ### Fixed
 - Moving while looting bodies
