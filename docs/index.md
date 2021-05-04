@@ -4,6 +4,38 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May 3rd, 2021
+This update was worked on by TheeDeer and Alikeshadow
+
+### Added
+- Personnel info screen in some department spawns
+- Interior keycard reader to CZ garage
+- When tased you will be unable to double x
+- Garbage Cans to CZ checkpoints
+- Containment zone breach shelter
+- Clearance level signs above OBS doors
+- SRU, Sigma-9, Alpha-1, Beta-7, MTF-FC to radio team identifiers
+- Medical room patient information screens
+
+### Fixed
+- Moving while looting bodies
+- Lolipop animation loop
+- Coffee mug handle position
+- SCP 409
+- SCP 034
+- Various floating card readers
+- TSTA 2 Glass
+- SD Extension Names
+- OBS Window Hitbox
+- Class A unauthorized nametags
+- Level 0 quiz grammar
+- 606's chamber floor
+- Shooting while saluting
+- E&TS entrance lighting clipping through wall
+- 173 sitting
+- 457 sitting
+- Zone A/C floor elevation
+
 ## April 30th, 2021
 This update was worked on by alikeshadow and TheeDeer
 
