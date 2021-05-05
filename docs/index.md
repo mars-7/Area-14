@@ -11,7 +11,7 @@ This update was worked on by TheeDeer and Alikeshadow
 - Personnel info screen in some department spawns
 - Interior keycard reader to CZ garage
 - When tased you will be unable to double x
-- Containment zone breach shelter
+- ~~Containment zone breach shelter~~ (Rejected by the Council)
 - Clearance level signs above OBS doors
 - SRU, Sigma-9, Alpha-1, Beta-7, MTF-FC to radio team identifiers
 - Medical room patient information screens
