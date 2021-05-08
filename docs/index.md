@@ -15,10 +15,11 @@ This update was worked on by TheeDeer and Alikeshadow
 - Clicking on the "Play" button in the main menu to cause constant respawning / invincibility.
 - Performance updates.
 - Medkits.
+- 034 killing the holder when morphing (hopefully).
 
 ### Removed
 - [UNRELEASED] Token system.
-- Taser in looting system pool.
+- Nerfed looting system.
 
 ## May 3rd, 2021
 This update was worked on by TheeDeer and Alikeshadow
