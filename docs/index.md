@@ -8,6 +8,22 @@ This web page is managed and updated by the Manufacturing Department.
 This update was worked on by TheeDeer and Alikeshadow
 
 ### Added
+- nicosgalaxy figurine.
+- Major OST overhaul, including a new song and where sounds are heard.
+
+### Fixed
+- Clicking on the "Play" button in the main menu to cause constant respawning / invincibility.
+- Performance updates.
+- Medkits.
+
+### Removed
+- [UNRELEASED] Token system.
+- Taser in looting system pool.
+
+## May 3rd, 2021
+This update was worked on by TheeDeer and Alikeshadow
+
+### Added
 - Personnel info screen in some department spawns
 - Interior keycard reader to CZ garage
 - When tased you will be unable to double x
