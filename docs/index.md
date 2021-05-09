@@ -16,10 +16,11 @@ This update was worked on by TheeDeer and Alikeshadow
 - Performance updates.
 - Medkits.
 - 034 killing the holder when morphing (hopefully).
+- Nerfed looting system.
+- Other miscellaneous bug fixes.
 
 ### Removed
 - [UNRELEASED] Token system.
-- Nerfed looting system.
 
 ## May 3rd, 2021
 This update was worked on by TheeDeer and Alikeshadow
