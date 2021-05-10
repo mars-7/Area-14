@@ -5,11 +5,10 @@ This web page is managed and updated by the Manufacturing Department.
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
 ## May 9th, 2021
-This update was worked on by TheeDeer and Alikeshadow
+This update was worked on by TheeDeer, Alikeshadow and Spearritt
 
 ### Added
-- nicosgalaxy figurine.
-- Major OST overhaul, including a new song and where sounds are heard.
+- OST overhaul, including a new song and where sounds are heard.
 
 ### Fixed
 - Clicking on the "Play" button in the main menu to cause constant respawning / invincibility.
