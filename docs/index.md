@@ -4,6 +4,23 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May 9th, 2021
+This update was worked on by TheeDeer, Alikeshadow and Spearritt
+
+### Added
+- OST overhaul, including a new song and where sounds are heard.
+
+### Fixed
+- Clicking on the "Play" button in the main menu to cause constant respawning / invincibility.
+- Performance updates.
+- Medkits.
+- 034 killing the holder when morphing (hopefully).
+- Nerfed looting system.
+- Other miscellaneous bug fixes.
+
+### Removed
+- [UNRELEASED] Token system.
+
 ## May 3rd, 2021
 This update was worked on by TheeDeer and Alikeshadow
 
