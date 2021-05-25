@@ -4,6 +4,43 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May 23rd, 2021
+This update was worked on by TheeDeer, Alikeshadow and Spearritt
+
+### Added
+- Physicians+ may now access TSC side observation rooms
+- Barricades to TSC
+- Speedometer
+- Tape Measure
+- EKG
+- TSC Balcony line indicator
+- Autoclose to all spawn exit doors (Combative doors exempt during raids/riots)
+- Combative spawns and TSC Cover automatically open during raids/riots
+- Coffee Tray (Social Item Giver)
+- Medical Mask Giver to MD Reception
+- Six new MD Vials
+- 409 abuse prevention
+
+### Changed
+- Bodycams nolonger run out of battery
+- 606's chamber permissions (SD Sentinel+ may now access)
+- O5-5's ESiD Wall name
+- Medkit; nows allows for self-healing
+- 409; rewrote to be less lag inducing
+
+### Fixed
+- Double Xing in a terminal breaking the Main Menu
+- Outside trees allowing for escape
+- Terrain issues allowing for escape
+- CMDR give command
+- Event Give
+- Personnel Manager (mostly)
+- MD Plant
+
+### Removed
+- Prop-Guns from vertical gun cases
+- Server Room Racks (Middle Row)
+
 ## May 9th, 2021
 This update was worked on by TheeDeer, Alikeshadow and Spearritt
 
