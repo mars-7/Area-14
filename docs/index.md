@@ -4,6 +4,36 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May 25th, 2021
+This update was worked on by TheeDeer, Alikeshadow
+
+### Added
+- Containment Zone Breach Shelter
+- Seats to FP Toilets
+
+### Changed
+- Fade Out Permissions (SRU Added)
+- SD Private Server Permissions (Removed SRU Brig+)
+- SRU Private Server Permissions (Removed SD Senior)
+- Balistic Shield Window
+- FP Bins to the wall
+- CZ Scanners (Aligned)
+- EC Logo in EC locker room
+- MD Mask Permissions (Team locked to MD)
+- ScD Speedometer to measure current speed
+- ScD Tapemeasure to measure between two points
+
+### Fixed
+- Various floating keycard readers
+- Mugs given from the tray
+- Vents being a diffrent material in TSC
+- Double Looting
+- SCP 409 infecting non-player objects
+- Armor Equiptment (More reliable, 2 second cooldown to toggle)
+
+### Removed
+- NVG Hitbox
+
 ## May 23rd, 2021
 This update was worked on by TheeDeer, Alikeshadow and Spearritt
 
