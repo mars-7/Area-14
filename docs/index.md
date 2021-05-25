@@ -10,9 +10,7 @@ This update was worked on by TheeDeer, Alikeshadow and Spearritt
 ### Added
 - Physicians+ may now access TSC side observation rooms
 - Barricades to TSC
-- Speedometer
-- Tape Measure
-- EKG
+- Various Testing Tools (Speedometer, Tape Measure, EKG)
 - TSC Balcony line indicator
 - Autoclose to all spawn exit doors (Combative doors exempt during raids/riots)
 - Combative spawns and TSC Cover automatically open during raids/riots
