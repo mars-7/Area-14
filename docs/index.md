@@ -28,6 +28,7 @@ This update was worked on by TheeDeer, Alikeshadow
 - Mugs given from the tray
 - Vents being a diffrent material in TSC
 - Double Looting
+- LCZ gate lockdown
 - SCP 409 infecting non-player objects
 - Armor Equiptment (More reliable, 2 second cooldown to toggle)
 
