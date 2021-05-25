@@ -23,7 +23,7 @@ This update was worked on by TheeDeer, Alikeshadow and Spearritt
 - Bodycams nolonger run out of battery
 - 606's chamber permissions (SD Sentinel+ may now access)
 - O5-5's ESiD Wall name
-- Medkit; nows allows for self-healing
+- Medkit; now allows for self-healing
 - 409; rewrote to be less lag inducing
 
 ### Fixed
@@ -32,7 +32,7 @@ This update was worked on by TheeDeer, Alikeshadow and Spearritt
 - Terrain issues allowing for escape
 - CMDR give command
 - Event Give
-- Personnel Manager (mostly)
+- Personnel Manager (partial)
 - MD Plant
 
 ### Removed
