@@ -10,12 +10,16 @@ This update was worked on by TheeDeer, Alikeshadow
 ### Added
 - C-409 Vial
 - CMDR logs screen to terminal
+- Hostile private server
+- Sigma-9, Alpha-1, Beta-7 private server
+- Vector to Wolves
 
 ### Changed
 - Logs Terminal Screen to be a scrolling frame
 
 ### Fixed
 - Fixed 914's Floor
+- Eventgive
 
 ### Removed
 - hmm
