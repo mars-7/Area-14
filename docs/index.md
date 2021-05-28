@@ -4,6 +4,22 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May ?th, 2021
+This update was worked on by TheeDeer, Alikeshadow
+
+### Added
+- C-409 Vial
+- CMDR logs screen to terminal
+
+### Changed
+- Logs Terminal Screen to be a scrolling frame
+
+### Fixed
+- Fixed 914's Floor
+
+### Removed
+- hmm
+
 ## May 25th, 2021
 This update was worked on by TheeDeer, Alikeshadow
 
