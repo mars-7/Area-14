@@ -13,13 +13,28 @@ This update was worked on by TheeDeer, Alikeshadow
 - Hostile private server
 - Sigma-9, Alpha-1, Beta-7 private server
 - Vector to Wolves
+- SCAR-HAMR to Sigma-9 Task Force Executive+
+- Laster to FAMAS and Honey Badger
+- Flashlight to SCAR-H, Spas-12, FAMAS, Honey Badger
+- Sounds to EKG
+- HK417 to SD Sentinel+
+- RadioMute terminal command to Level 3+ / EC / IA
+
 
 ### Changed
 - Logs Terminal Screen to be a scrolling frame
+- Black humvee permissions (Added Sigma-9 TFS+)
+- SCP 409
 
 ### Fixed
 - Fixed 914's Floor
 - Eventgive
+- Floating keycard readers in OBS
+- 038 branches
+- Library hallway floor
+- FP bathroom walls
+- 002 Key card readers
+- Sedative Vial
 
 ### Removed
 - hmm
