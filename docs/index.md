@@ -18,13 +18,19 @@ This update was worked on by TheeDeer, Alikeshadow
 - Flashlight to SCAR-H, Spas-12, FAMAS, Honey Badger
 - Sounds to EKG
 - HK417 to SD Sentinel+
+- M9 to SD Cadets
+- P30 to Task Force Executives+
 - RadioMute terminal command to Level 3+ / EC / IA
+- Character Vitals (Heart Rate, Blood Pressure, Temperature, Bone Density, and Weight)
+- 
 
 
 ### Changed
 - Logs Terminal Screen to be a scrolling frame
 - Black humvee permissions (Added Sigma-9 TFS+)
 - SCP 409
+- Bubble chat range from 40 to 60
+- SCP 266
 
 ### Fixed
 - Fixed 914's Floor
