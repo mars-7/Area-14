@@ -40,6 +40,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - SCP 1162 (character vitals)
 - SCP 266 (Slight rework, auto breaches, character vitals)
 - SCP 409 (vial interactions)
+- Access Shafts to Zone C
 
 ### Fixed
 - Fixed 914's Floor
