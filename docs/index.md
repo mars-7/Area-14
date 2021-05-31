@@ -5,7 +5,7 @@ This web page is managed and updated by the Manufacturing Department.
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
 ## May ?th, 2021
-This update was worked on by TheeDeer, Alikeshadow
+This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 
 ### Added
 - C-409 Vial
@@ -14,7 +14,7 @@ This update was worked on by TheeDeer, Alikeshadow
 - Sigma-9, Alpha-1, Beta-7 private server
 - Vector to Wolves
 - SCAR-HAMR to Sigma-9 Task Force Executive+
-- Laster to FAMAS and Honey Badger
+- Laser to FAMAS and Honey Badger
 - Flashlight to SCAR-H, Spas-12, FAMAS, Honey Badger
 - Sounds to EKG
 - HK417 to SD Sentinel+
@@ -22,15 +22,25 @@ This update was worked on by TheeDeer, Alikeshadow
 - P30 to Task Force Executives+
 - RadioMute terminal command to Level 3+ / EC / IA
 - Character Vitals (Heart Rate, Blood Pressure, Temperature, Bone Density, and Weight)
-- 
+- AUG A3 PARA to Beta-7 Task Force Executive+
+- TAR-21 to Beta-7
+- Cell block doors to site security
+- Sit prompts to TSC
+- Terminal to Zone A
 
 
 ### Changed
-- Logs Terminal Screen to be a scrolling frame
+- Logs terminal screen to be a scrolling frame
 - Black humvee permissions (Added Sigma-9 TFS+)
-- SCP 409
 - Bubble chat range from 40 to 60
-- SCP 266
+- TSC in site security
+- Zone A in site security
+- SCAR-H rate of fire and damage
+- M1911 rate of fire and damage
+- AK-103 damage
+- SCP 1162 (character vitals)
+- SCP 266 (Slight rework, auto breaches, character vitals)
+- SCP 409 (vial interactions)
 
 ### Fixed
 - Fixed 914's Floor
@@ -39,11 +49,12 @@ This update was worked on by TheeDeer, Alikeshadow
 - 038 branches
 - Library hallway floor
 - FP bathroom walls
-- 002 Key card readers
-- Sedative Vial
+- 002 key card readers
+- Sedative vial
+- Mouse dissapearing when entering menu
 
 ### Removed
-- hmm
+- Idle look around animation
 
 ## May 25th, 2021
 This update was worked on by TheeDeer, Alikeshadow
