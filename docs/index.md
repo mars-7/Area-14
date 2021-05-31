@@ -28,7 +28,6 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - Sit prompts to TSC
 - Terminal to Zone A
 
-
 ### Changed
 - Logs terminal screen to be a scrolling frame
 - Black humvee permissions (Added Sigma-9 TFS+)
