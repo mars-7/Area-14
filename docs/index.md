@@ -27,6 +27,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - Cell block doors to site security
 - Sit prompts to TSC
 - Terminal to Zone A
+- TV to main menu
 
 ### Changed
 - Logs terminal screen to be a scrolling frame
@@ -35,12 +36,15 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - TSC in site security
 - Zone A in site security
 - SCAR-H rate of fire and damage
+- SCAR-H idle animation
 - M1911 rate of fire and damage
 - AK-103 damage
 - SCP 1162 (character vitals)
 - SCP 266 (Slight rework, auto breaches, character vitals)
 - SCP 409 (vial interactions)
 - Access Shafts to Zone C
+- Looting (Added primaries and secondaries back, however looted guns only have one mag)
+- C4 Blast radius
 
 ### Fixed
 - Fixed 914's Floor
@@ -52,6 +56,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - 002 key card readers
 - Sedative vial
 - Mouse dissapearing when entering menu
+- Double Looting (Actually this time)
 
 ### Removed
 - Idle look around animation
