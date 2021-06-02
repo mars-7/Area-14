@@ -30,6 +30,9 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - TV to main menu
 
 ### Changed
+- SCP 1162 (character vitals)
+- SCP 266 (Slight rework, auto breaches, character vitals)
+- SCP 409 (vial interactions)
 - Logs terminal screen to be a scrolling frame
 - Black humvee permissions (Added Sigma-9 TFS+)
 - Bubble chat range from 40 to 60
@@ -39,9 +42,6 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - SCAR-H idle animation
 - M1911 rate of fire and damage
 - AK-103 damage
-- SCP 1162 (character vitals)
-- SCP 266 (Slight rework, auto breaches, character vitals)
-- SCP 409 (vial interactions)
 - Access Shafts to Zone C
 - Looting (Added primaries and secondaries back, however looted guns only have one mag)
 - C4 Blast radius
