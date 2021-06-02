@@ -42,7 +42,6 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - M1911 rate of fire and damage
 - AK-103 damage
 - Access Shafts to Zone C
-- Looting (Added primaries and secondaries back, however looted guns only have one mag)
 - C4 Blast radius
 
 ### Fixed
