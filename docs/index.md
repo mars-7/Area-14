@@ -10,19 +10,18 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 ### Added
 - C-409 Vial
 - CMDR logs screen to terminal
+- Sounds to EKG
+- RadioMute terminal command to Level 4+ / EC / IA
+- Character Vitals (Heart Rate, Blood Pressure, Temperature, Bone Density, and Weight)
 - Hostile private server
 - Sigma-9, Alpha-1, Beta-7 private server
 - Vector to Wolves
 - SCAR-HAMR to Sigma-9 Task Force Executive+
-- Laser to FAMAS and Honey Badger
-- Flashlight to SCAR-H, Spas-12, FAMAS, Honey Badger
-- Sounds to EKG
+- Weapon attachments to FAMAS, Honey Badger, SCAR-H, SPAS-12
 - HK417 to SD Sentinel+
 - M9 to SD Cadets
 - P30 to Task Force Executives+
-- RadioMute terminal command to Level 3+ / EC / IA
-- Character Vitals (Heart Rate, Blood Pressure, Temperature, Bone Density, and Weight)
-- AUG A3 PARA to Beta-7 Task Force Executive+
+- AUG A3 PARA to Beta-7 Task Force Elite+
 - TAR-21 to Beta-7
 - Cell block doors to site security
 - Sit prompts to TSC
