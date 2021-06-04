@@ -29,6 +29,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - Sit prompts to TSC
 - Terminal to Zone A
 - TV to main menu
+- Random hostile access keycard spawns to TSC CB/Kitchen
 
 ### Changed
 - SCP 1162 (character vitals)
