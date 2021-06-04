@@ -9,6 +9,8 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 
 ### Added
 - C-409 Vial
+- Thermometer
+- CD cloths to MD Surgery room
 - CMDR logs screen to terminal
 - Sounds to EKG
 - RadioMute terminal command to Level 4+ / EC / IA
@@ -43,6 +45,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - AK-103 damage
 - Access Shafts to Zone C
 - C4 Blast radius
+- TSC Lighting
 
 ### Fixed
 - Fixed 914's Floor
@@ -55,6 +58,9 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - Sedative vial
 - Mouse dissapearing when entering menu
 - Double Looting (Actually this time)
+- Access shafts ropes
+- Some doors being open on start
+- Gun Lasers
 
 ### Removed
 - Idle look around animation
