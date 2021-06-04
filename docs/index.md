@@ -26,7 +26,6 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - AUG A3 PARA to Beta-7 Task Force Elite+
 - TAR-21 to Beta-7
 - Cell block doors to site security
-- Sit prompts to TSC
 - Terminal to Zone A
 - TV to main menu
 - Random hostile access keycard spawns to TSC CB/Kitchen
