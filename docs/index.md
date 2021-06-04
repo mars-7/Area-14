@@ -10,7 +10,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 ### Added
 - C-409 Vial
 - Thermometer
-- CD cloths to MD Surgery room
+- CD clothes to MD Surgery room
 - CMDR logs screen to terminal
 - Sounds to EKG
 - RadioMute terminal command to Level 4+ / EC / IA
