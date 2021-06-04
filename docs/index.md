@@ -4,7 +4,7 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
-## May 4th, 2021
+## June 4th, 2021
 This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 
 ### Added
