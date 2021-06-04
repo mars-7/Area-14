@@ -46,6 +46,7 @@ This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 - Access Shafts to Zone C
 - C4 Blast radius
 - TSC Lighting
+- OBS glass
 
 ### Fixed
 - Fixed 914's Floor
