@@ -4,6 +4,69 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## May ?th, 2021
+This update was worked on by Spearritt, Alikeshadow, and TheeDeer
+
+### Added
+- C-409 Vial
+- Thermometer
+- CD cloths to MD Surgery room
+- CMDR logs screen to terminal
+- Sounds to EKG
+- RadioMute terminal command to Level 4+ / EC / IA
+- Character Vitals (Heart Rate, Blood Pressure, Temperature, Bone Density, and Weight)
+- Hostile private server
+- Sigma-9, Alpha-1, Beta-7 private server
+- Vector to Wolves
+- SCAR-HAMR to Sigma-9 Task Force Executive+
+- Weapon attachments to FAMAS, Honey Badger, SCAR-H, SPAS-12
+- HK417 to SD Sentinel+
+- M9 to SD Cadets
+- P30 to Task Force Executives+
+- AUG A3 PARA to Beta-7 Task Force Elite+
+- TAR-21 to Beta-7
+- Cell block doors to site security
+- Sit prompts to TSC
+- Terminal to Zone A
+- TV to main menu
+- Random hostile access keycard spawns to TSC CB/Kitchen
+
+### Changed
+- SCP 1162 (character vitals)
+- SCP 266 (Slight rework, auto breaches, character vitals)
+- SCP 409 (vial interactions)
+- Logs terminal screen to be a scrolling frame
+- Black humvee permissions (Added Sigma-9 TFS+)
+- Bubble chat range from 40 to 60
+- TSC in site security
+- Zone A in site security
+- SCAR-H rate of fire and damage
+- SCAR-H idle animation
+- M1911 rate of fire and damage
+- AK-103 damage
+- Access Shafts to Zone C
+- C4 Blast radius
+- TSC Lighting
+- OBS glass
+
+### Fixed
+- Fixed 914's Floor
+- Eventgive
+- Floating keycard readers in OBS
+- 038 branches
+- Library hallway floor
+- FP bathroom walls
+- 002 key card readers
+- Sedative vial
+- Mouse dissapearing when entering menu
+- Double Looting (Actually this time)
+- Access shafts ropes
+- Some doors being open on start
+- Gun Lasers
+
+### Removed
+- Idle look around animation
+
 ## May 25th, 2021
 This update was worked on by TheeDeer, Alikeshadow
 
