@@ -4,6 +4,26 @@ This web page is managed and updated by the Manufacturing Department.
 ## Quick Links
 * [Detailed Weapon Statistics](https://docs.google.com/spreadsheets/d/17A-Qn2cw7yGLl_R0BbsM4ODvLzdZUj_Z9p6ZllokMis/edit?usp=sharing)
 
+## June 8th, 2021
+This update was worked on by Alikeshadow and TheeDeer
+
+### Added
+- Icons to Lolipop. EKG, Speedometer, Tape Measure and Thermometer tools.
+- Private servers for THI and CI.
+- More lights in SCP 914, 038 and 094's chambers.
+
+### Changed
+- Click detector on testing tools to the "E to interact" prompt.
+- OBS glass to be darker.
+
+### Fixed
+- Small gap in SCP 310's containment chamber.
+- Held height of HK417.
+- Screens on testing tools being unreadable in dark areas.
+
+### Removed
+- Glass in TSC canteen serving area.
+
 ## June 4th, 2021
 This update was worked on by Spearritt, Alikeshadow, and TheeDeer
 
