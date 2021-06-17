@@ -1,19 +1,19 @@
 [
   {
-    "Username": "EternallyAuthentic",
-    "UserId": 175504699,
+    "Username": "PvT_T",
+    "UserId": 463667006,
     "Rank": "Senior External Scientist",
-    "Suspended": false
-  },
-  {
-    "Username": "Camper1615",
-    "UserId": 371535282,
-    "Rank": "External Scientist",
     "Suspended": false
   },
   {
     "Username": "TokeTheTile",
     "UserId": 122734487,
+    "Rank": "Senior External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "ColdAsLava",
+    "UserId": 386202320,
     "Rank": "Senior External Scientist",
     "Suspended": false
   },
@@ -24,21 +24,50 @@
     "Suspended": false
   },
   {
-    "Username": "felop11",
-    "UserId": 585679528,
-    "Rank": "Senior External Scientist",
+    "Username": "Campulus",
+    "UserId": 371535282,
+    "Rank": "External Scientist",
     "Suspended": false
   },
   {
-    "Username": "kamilos200470",
-    "UserId": 122842854,
-    "Rank": "Head External Scientist",
+    "Username": "marek3600",
+    "UserId": 546234475,
+    "Rank": "External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "bestnoobaround",
+    "UserId": 89261030,
+    "Rank": "External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "apouclypsepro",
+    "UserId": 258881332,
+    "Rank": "Junior External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "AncientTriforce714",
+    "UserId": 306462975,
+    "Rank": "Junior External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "Blazerboi95",
+    "UserId": 1694072779,
+    "Rank": "Junior External Scientist",
     "Suspended": false
   },
   {
     "Username": "drackmo54",
     "UserId": 53238869,
+    "Rank": "Head External Scientist",
+    "Suspended": false
+  },
+  {
+    "Username": "kamilos200470",
+    "UserId": 122842854,
     "Rank": "External Director",
     "Suspended": false
-  }
 ]
